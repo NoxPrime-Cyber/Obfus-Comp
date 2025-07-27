@@ -38,7 +38,7 @@ Termux Only
 4. Install git clone:
 
    ```sh
-   git clone https://github.com/NoxMonnzReal/Obfus-Comp
+   git clone https://github.com/NoxPrime-Cyber/Obfus-Comp
    ```
 
 5. Open Folder:
